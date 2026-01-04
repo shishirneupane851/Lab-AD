@@ -1,2 +1,3 @@
 # Lab-AD
-You can get better knowledge related to ML and includes some projects too.
+You can enhance your knowledge and skills in machine learning.
+This provides an opportunity to deepen your understanding of machine learning concepts.
